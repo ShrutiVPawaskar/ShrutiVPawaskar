@@ -1,6 +1,6 @@
 # Hi there, I'm Shruti Pawaskar 👋
 
-I am an experienced infrastructure and engineering professional passionate about designing scalable, reliable, and highly efficient cloud architectures. Currently, I am looking for opportunities as a **Solutions Engineer**, where I can combine my deep technical background in cloud infrastructure with my passion for solving complex technical challenges for businesses.
+I am an experienced infrastructure engineering professional passionate about designing scalable, reliable, and highly efficient cloud architectures. Currently, I am looking for opportunities as a **Solutions Engineer**, where I can combine my deep technical background in cloud infrastructure with my passion for solving complex technical challenges for businesses.
 
 ---
 
