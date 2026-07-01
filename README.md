@@ -10,7 +10,7 @@
 
 ### 📊 Professional Focus
 * **Project Management:** 
-* **DevOps & SRE:** y expanding my expertise into **MLOps** and **Generative AI developer ecosystems** to build the next generation of cloud solutions.
+* **DevOps & SRE:** 
 
 ---
 
